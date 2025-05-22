@@ -24,7 +24,7 @@ SERIAL_PORT = '/dev/serial0'  # or '/dev/ttyS0'
 BAUD_RATE = 115200
 
 # DeGirum Configuration
-DEGIRUM_TOKEN = "dg_QYeRYSmJStxgjWW7R4B8YCZD393avDe62qM8E"
+DEGIRUM_TOKEN = "token here"
 
 def setup_degirum():
     """Initialize DeGirum model for object detection"""
